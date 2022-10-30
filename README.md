@@ -21,7 +21,6 @@ https://youtu.be/1t-A2LaSUvc
 
 ![menu](https://github.com/Austin12325/Foxhole-Blender-addon/blob/main/docs/blender_mdiGbm2cYo.png "Menu")
 
-![bats](https://github.com/Austin12325/Foxhole-Blender-addon/blob/main/docs/blender_gNEiD9Wk9b.png "Bats")
 
 # Information 
 Made with serpens 3.1.2, source files and nodes are found in the blend file. 
