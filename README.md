@@ -9,7 +9,7 @@ Addon to automate certain tasks
 
 
 # Installation 
-Under releases download the latest zip file 
+Under [releases](https://github.com/Austin12325/Foxhole-Blender-addon/releases/tag/1.0) download the latest zip file 
 Install through the addons menu in the Blender preferences.
 
 # Images: 
