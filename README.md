@@ -17,3 +17,7 @@ Install through the addons menu in the Blender preferences.
 ![menu](https://github.com/Austin12325/Foxhole-Blender-addon/blob/main/docs/blender_mdiGbm2cYo.png "Menu")
 
 ![bats](https://github.com/Austin12325/Foxhole-Blender-addon/blob/main/docs/blender_gNEiD9Wk9b.png "Bats")
+
+# Information 
+Made with serpens 3.1.2, source files and nodes are found in the blend file. 
+Serpens is required to edit the addon through nodes. 
