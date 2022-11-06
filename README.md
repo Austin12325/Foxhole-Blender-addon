@@ -1,5 +1,5 @@
 # Foxhole Blender addon
-Addon to automate certain tasks 
+Addon to automate certain tasks in the Foxhole modding process
 
 # Features 
 - Fixing the scale of imported rigs 
