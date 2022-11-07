@@ -5,7 +5,8 @@ Addon to automate certain tasks in the Foxhole modding process
 - Fixing the scale of imported rigs 
 - Sets fbx export settings 
 - Allows execution of bats through blenders UI (Specify bat file location in paths)
-- Imports props.txt files from Umodel export based on material name
+- ~~Imports props.txt files from Umodel export based on material name~~
+  - Auto imports and sets up materials based on the props.txt (Thanks to Wolfgang.IX for the node group :D )
 - Hopefully more tools as time goes on :) 
 
 
