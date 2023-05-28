@@ -85,9 +85,9 @@ except:
 txtfile = bpy.data.texts[matname].filepath
 linenumber = 0
 with open(txtfile, 'r') as file:
-        content = file.readlines()
+        content = list(map(lambda x: x.replace("ParameterValue = Texture2D'/War/Content/", "ParameterValue = Texture2D'"), file.readlines()))
         for lines in content:
-            if "ParameterValue = Texture2D'/War/Content/Textures" in lines:
+            if "ParameterValue = Texture2D'Textures" in lines:
                 wordlist.append(linenumber)
                 test = lines.split('.')
             else:
@@ -112,7 +112,7 @@ imgnode = 2
 
 for text in wordlist:
     print('Line index -1',test)
-    texpath = content[text].replace("ParameterValue = Texture2D'/War/Content/", "", text).strip(' ')
+    texpath = content[text].replace("ParameterValue = Texture2D'", "", text).strip(' ')
     image = ((texpath.split('.')[-1][:-2]))
     filepath = (dirpath+texpath.split(image)[0].replace("/", "\\")+image+".tga")
     mat = bpy.context.object.active_material
