@@ -31,4 +31,5 @@ Serpens is required to edit the addon through nodes.
 # 1.3.0
 
 https://github.com/Wolfgang-IX/Foxhole-Blender-addon/assets/47208316/f09f6e7e-44c8-4ddf-bd56-aec6255f1aaf
+
 https://github.com/Wolfgang-IX/Foxhole-Blender-addon/assets/47208316/a504fac8-2e04-4f17-ac41-7ec7a2c4284e
