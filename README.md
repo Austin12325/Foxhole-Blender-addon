@@ -26,3 +26,7 @@ https://youtu.be/1t-A2LaSUvc
 # Information 
 Made with serpens 3.1.2, source files and nodes are found in the blend file. 
 Serpens is required to edit the addon through nodes. 
+
+
+https://github.com/Wolfgang-IX/Foxhole-Blender-addon/assets/47208316/a504fac8-2e04-4f17-ac41-7ec7a2c4284e
+
